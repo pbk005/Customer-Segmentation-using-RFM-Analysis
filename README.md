@@ -1,4 +1,4 @@
-                                                            Customer Segmentation using RFM
+                                                            CUSTOMER SEGMENTATION USING RFM
 
 The main objective of this project is to perform customer segmentation using RFM analysis. The dataset consists of transaction details of customers across different countries between 01/12/2010 and 09/12/2011. Data cleaning operations such as removing null values, deleting duplicate records and filtering the cancelled orders have been performed. Cohort analysis has been performed and the retention rate of customers has been calculated for each month. The same has been displayed using a heatmap.
 
@@ -9,4 +9,5 @@ K-means clustering algorithm is used to build the model. Optimum number of clust
 Observations
 
 •	Among all the countries, the county with maximum number of customers is UK.
+
 •	The most popular product sold across all the countries is ‘Paper Craft, Little Birdie’.
