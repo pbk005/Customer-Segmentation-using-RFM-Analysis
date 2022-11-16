@@ -7,5 +7,7 @@ The RFM model has been built by calculating Recency (R), Frequency (F) and Monet
 K-means clustering algorithm is used to build the model. Optimum number of cluster has been found as 3 by plotting an elbow curve. RFM data is normalized by applying log transformation. Data scaling has been performed using standard scaler. A scatter plot has been plotted for different RFM values. Based on the RFM values clusters are assigned to each one of them.
 
 Observations
+
 •	Among all the countries, the county with maximum number of customers is UK.
+
 •	The most popular product sold across all the countries is ‘Paper Craft, Little Birdie’.
